@@ -1,0 +1,646 @@
+.pci{
+
+     width: 30%;
+     height: 35px;
+     margin-right: 10px;
+}
+.lind{
+	    height: 2px;
+	    width: 100%;
+	    background-color: darkgrey;
+}
+.frow{
+	   display: flex;
+	   flex-direction: row;
+	   justify-content: space-between;
+}
+.first{
+	width: 30%;
+		color: black;
+		background-color: white;
+		box-shadow:  10px 10px 10px lightgray;
+}
+.first:hover{
+	color: white;
+	background-color: skyblue;
+	transition: all 2s;
+}
+.firstt{
+	width: 30%;
+		color: black;
+		background-color: white;
+		
+}
+.firstt:hover{
+	color: white;
+	background-color: skyblue;
+	transition: all 2s;
+}
+.foo{
+	margin-top: -25px;
+	margin-bottom: 20px;
+}
+.hd{
+	font-size: 25px;
+}
+.ic{
+	font-size: 30px;
+	
+
+}
+.text{
+	margin-bottom: 60px;
+}
+.chng{
+	color: skyblue;
+
+}
+.hd1{
+	font-size: 70px;
+}
+.sec{
+	background-image: url("pic19.jpg");
+	background-position: center;
+	background-size: cover;
+   width: 100%;
+   height: 500px;
+}
+.foo1{
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+.lll{
+	margin-left: 132px;
+	margin-top: -82px;
+}
+.lllo{
+	margin-left: 110px;
+	margin-top: -82px;
+}
+.ll{
+	margin-left: 132px;
+	margin-top: -10px;
+}
+.llo{
+	margin-left: 110px;
+	margin-top: -10px;
+}
+.hdd{
+	margin-top: 10px;
+	color: red;
+}
+.sdd{
+	color: blue;
+	margin-top: 10px;
+}
+.sd{
+	color: black;
+	margin-left: 50px;
+	margin-top: -25px;
+}
+.sddo{
+	color: blue;
+	margin-top: 40px;
+}
+.sdo{
+	color: black;
+	margin-left: 50px;
+	margin-top: -25px;
+}
+.video{
+         margin-top: 400px;
+         margin-left: 265px;
+         width: 40%;
+          height: 100px;
+          background-color: white;
+}
+.videosm{
+         margin-top: 500px;
+         margin-left: 160px;
+         width: 40%;
+          height: 100px;
+          background-color: white;
+}
+.welsm{
+	       margin-top: 100px;
+}
+.vdd{
+	padding-top: 20px;
+}
+.vid{
+	padding-top: 10px;
+}
+.pp{
+        margin-left: -5px;
+}
+.bg1{
+	background-size: cover;
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/service-1.png);
+	width: 320px;
+	height: 250px;
+}
+.bg2{
+	background-size: cover;
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/service-2.png);
+	width: 320px;
+	height: 250px;
+	margin-left: -10px;
+	margin-top: 5px;
+}
+
+.bg3{
+	background-size: cover;
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/service-3.png);
+	width: 320px;
+	height: 250px;
+	margin-left: -10px;
+	margin-top: 5px;
+
+}
+
+.bg4{
+	background-size: cover;
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/service-4.png);
+	width: 320px;
+	height: 250px;
+}
+.bg5{
+	background-size: cover;
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/service-5.png);
+	width: 320px;
+	height: 250px;
+	margin-left: -10px;
+	margin-top: 5px;
+}
+
+.bg6{
+	background-size: cover;
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/service-6.png);
+	width: 320px;
+	height: 250px;
+	margin-left: -10px;
+	margin-top: 5px;
+}
+
+
+.bg11{
+	background-size: cover;
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/service-1.png);
+	width: 290px;
+	height: 250px;
+	margin-left: -10px;
+	margin-top: 5px;
+}
+.bg12{
+	background-size: cover;
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/service-2.png);
+	width: 290px;
+	height: 250px;
+	margin-left: -10px;
+	margin-top: 5px;
+}
+
+.bg13{
+	background-size: cover;
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/service-3.png);
+	width: 290px;
+	height: 250px;
+	margin-left: -10px;
+	margin-top: 5px;
+
+}
+
+.bg14{
+	background-size: cover;
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/service-4.png);
+	width: 290px;
+	height: 250px;
+	margin-left: -10px;
+	margin-top: 5px;
+}
+.bg15{
+	background-size: cover;
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/service-5.png);
+	width: 290px;
+	height: 250px;
+	margin-left: -10px;
+	margin-top: 5px;}
+
+.bg16{
+	background-size: cover;
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/service-6.png);
+	width: 290px;
+	height: 250px;
+	margin-left: -10px;
+	margin-top: 5px;
+}
+.po{
+	
+	text-align: center;
+	padding-top: 230px;
+	font-size: 50px;
+
+}
+.poo{
+	
+	text-align: center;
+	
+	font-size: 30px;
+
+}
+.ft{
+
+	background-color: white;
+	width: 50px;
+	height: 50px;
+	border-radius: 100%;
+	text-align: center;
+	color: skyblue;
+}
+.ft:hover{
+
+	background-color: skyblue;
+	color: white;
+}
+.ftot{
+	
+	padding-top: 250px;
+	padding-left: 180px;
+}
+.back{
+	background-size: cover;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/service-bg.jpg);
+	background-position: center;
+	width: 100%;
+	height: 800px;
+}
+.forth{
+	margin-top: 120px;
+}
+.pic{
+    background-size: cover;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/tab-image-1.jpg);
+	background-position: center;
+	width: 90%;
+	height: 500px;
+}
+.backblue{
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/team-bg.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 400px;
+}
+
+.backdoc{
+	margin-top: -70px;
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/team-01.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 400px;
+}
+.backdoc1{
+	margin-top: -70px;
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/team-02.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 400px;
+}
+.backdoc2{
+	margin-top: -70px;
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/team-03.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 400px;
+}
+.bot{
+	width: 335px;
+	height: 50px;
+	
+}
+.bott{
+	margin-left: -15px;
+	padding-top: 400px;
+}
+.btto{
+	width: 335px;
+	height: 70px;
+}
+.backdot{
+	margin-top: 100px;
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/choose-bg.png);
+	background-size: cover;
+	width: 100%;
+	height: 600px;
+}
+.icnback{
+	background-color: lightgray;
+	width: 60px;
+	height: 60px;
+	margin-top: 80px;
+	font-size: 40px;
+	padding-left: 15px;
+	color: deepskyblue;
+}
+.txtte{
+	margin-top: -65px;
+	margin-left: 70px;
+}
+.btblack{
+	background-color: skyblue;
+	color: white;
+}
+.btblack:hover{
+	background-color: red;
+	color: white;
+	transition: all 2s;
+}
+.backimgg{
+		
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/blog-shape.png);
+	background-size: cover;
+	width: 100%;
+	height: 800px;
+}
+.backkimg{
+		
+	background-position: center;
+	background-image: url(pic70.png);
+	background-size: cover;
+	width: 100%;
+	height: 550px;
+}
+.backk{
+		
+	background-position: center;
+	background-image: url(https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105_960_720.png);
+	background-size: cover;
+	width: 100%;
+	height: 1000px;
+	margin-top: 150px;
+}
+.backimgg1{
+		
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/blog-shape.png);
+	background-size: cover;
+	width: 100%;
+	height: 1300px;
+}
+.bgg1{
+        position:relative;
+}
+.back1{
+	
+	background-repeat: no-repeat;
+	background-image: url(https://cdn.pixabay.com/photo/2017/12/12/18/02/medical-equipment-3015235_960_720.jpg);
+	background-size: 180% auto;
+	width: 100%;
+	height: 295px;
+	    transition: all 2s;
+
+}
+.overly{
+    height:300px;
+    width:98%;
+     background-color: rgba(0,0,0,0.5);
+    position:absolute;
+    top:0;
+    display:none;
+    
+}
+.bgg1:hover .overssly{
+	
+    display:block;
+    transition:all 2s;
+
+}
+.back1:hover {
+	
+	background-size: 200% auto;
+}
+.back2{
+	
+	background-image: url(https://medicosfamilyclinic.com/wp-content/uploads/2020/06/medical-clinic-672x372.jpg);
+	background-size: 180% auto;
+	width: 100%;
+	height: 295px;
+	transition: all 2s;
+}
+.back2:hover{
+	background-size: 200% auto;
+}
+.back3{
+	background-position: center;
+
+	background-image: url(https://st.focusedcollection.com/14026668/i/650/focused_482785560-stock-photo-female-doctor-protective-face-mask.jpg);
+	background-size: 180% auto;
+	width: 100%;
+	height: 295px;
+	transition: all 2s;
+}
+.back3:hover{
+	background-size: 200% auto;
+}
+.backs3{
+
+	background-position: center;
+	
+	background-image: url(https://st.focusedcollection.com/14026668/i/650/focused_482785560-stock-photo-female-doctor-protective-face-mask.jpg);
+	background-size: 250% auto;
+	width: 300px;
+	height: 300px;
+	transition: all 2s;
+}
+.backs3:hover{
+	background-size: 270% auto;
+}
+.txt1{
+	padding-top: 10px;
+}
+.backfoot{
+
+	width: 100%;
+	height: 300px;
+}
+.backfoot1{
+
+	width: 100%;
+	height: 500px;
+}
+
+.backfaqs{
+	            	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/slider-1.jpg);
+	background-size: cover;
+   
+	width: 100%;
+	height: 600px;
+	margin-bottom: 10px;
+}
+
+.backfaqs1{
+	        background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/slider-1.jpg);
+	background-size: cover;
+  
+	width: 100%;
+	height: 1100px;
+	margin-bottom: 10px;
+}
+.picss{
+	width: 95%;
+}
+.backab{
+		position: relative;
+		background-color: skyblue;
+}
+.bacckpic{
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/slider-1.jpg);
+	background-size: cover;
+    opacity: 30%;
+	width: 100%;
+	height: 300px;
+	
+
+}
+.backab1{
+		position: relative;
+		background-color: deepskyblue;
+}
+.bacckpic1{
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/slider-1.jpg);
+	background-size: cover;
+    opacity: 30%;
+	width: 100%;
+	height: 300px;
+	
+
+}
+.backab2{
+		position: relative;
+		
+}
+
+.bacckpic2:hover{
+	
+		background-color: deepskyblue;
+}
+.bacckpic2{
+	background-position: center;
+	background-image: url(https://demo.themexbd.com/html/smartdev/assets/images/slider-1.jpg);
+	background-size: cover;
+    opacity: 30%;
+	width: 100%;
+	height: 300px;
+	
+
+}
+.playb{
+	color: skyblue;
+	font-size: 40px;
+	margin-bottom: -10px;
+}
+.playbpc{
+	text-align: center;
+	color: blue;
+	font-size: 70px;
+	padding-top: 90px;
+}
+.overlyabout{
+    height:300px;
+    width:100%;
+     background-color: rgba(0,0,0,0.5);
+    position:absolute;
+    top:0;
+    display:none;
+}
+.bacckpic:hover .overlyabout{
+    display:block;
+    transition:all 2s;
+}
+.txtab{
+	text-align: center;
+	padding-top: 120px;
+	font-size: 40px;
+	color: darkblue;
+}
+.txta1{
+	text-align: center;
+	
+	font-size: 20px;
+	color: darkblue;
+}
+.modal-content{
+	background: transparent !important;
+	border: none !important;
+}
+.playbp{
+	      padding-top: 200px;
+	      font-size: 70px;
+	      color: deepskyblue;
+}
+
+
+
+
+
+
+
+
+
+.icnser{
+	color: blue;
+	font-size: 80px;
+}
+.beffotr{
+	padding-bottom: 40px;
+}
+.beffotrsp{
+	padding-top: 80px;
+	margin-bottom: 50px;
+}
+
+.backfoots1{
+
+	width: 100%;
+	height: 5l00px;
+	margin-top: 80px;
+}
+.icnnbck{
+	background-color: skyblue;
+	color: blue;
+	font-size: 30px;
+	height: 60px;
+	width: 60px;
+	border-radius: 100%;
+	text-align: center;
+	padding-top: 10px;
+}
+.icnnbck:hover{
+	background-color: blue;
+	color: white;
+	transition: all 2s;
+}
+.mar{
+          margin-left: -70px;
+}
